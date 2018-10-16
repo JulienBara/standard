@@ -39,6 +39,7 @@ T:System.Reflection.PropertyInfoExtensions
 T:System.Reflection.TypeExtensions
 T:System.Buffers.IPinnable
 T:System.Buffers.MemoryManager`1
+T:System.Security.Cryptography.CryptographicOperations
 T:System.Threading.Tasks.Sources.IValueTaskSource
 T:System.Threading.Tasks.Sources.IValueTaskSource`1
 T:System.Threading.Tasks.Sources.ValueTaskSourceOnCompletedFlags
